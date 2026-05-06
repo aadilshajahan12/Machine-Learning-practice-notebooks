@@ -30,7 +30,7 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
-🎯 Purpose
+## 🎯 Purpose
 These notebooks are intended as practice exercises to strengthen my understanding of machine learning workflows. They demonstrate:
 
 Building and evaluating models
@@ -39,7 +39,7 @@ Applying preprocessing techniques
 
 Visualizing data and results
 
-🚀 Next Steps
+## 🚀 Next Steps
 Future updates will include:
 
 More advanced models (ensemble methods, neural networks)
