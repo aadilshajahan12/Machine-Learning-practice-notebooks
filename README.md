@@ -29,6 +29,7 @@ The notebooks use common Python libraries:
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+```
 🎯 Purpose
 These notebooks are intended as practice exercises to strengthen my understanding of machine learning workflows. They demonstrate:
 
